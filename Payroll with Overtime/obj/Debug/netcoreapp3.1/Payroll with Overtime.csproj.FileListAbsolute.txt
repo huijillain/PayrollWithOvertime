@@ -13,3 +13,18 @@ C:\Users\mabservi\source\repos\Payroll with Overtime\Payroll with Overtime\obj\D
 C:\Users\mabservi\source\repos\Payroll with Overtime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.dll
 C:\Users\mabservi\source\repos\Payroll with Overtime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.pdb
 C:\Users\mabservi\source\repos\Payroll with Overtime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.genruntimeconfig.cache
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\bin\Debug\netcoreapp3.1\Payroll with Overtime.exe
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\bin\Debug\netcoreapp3.1\Payroll with Overtime.deps.json
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\bin\Debug\netcoreapp3.1\Payroll with Overtime.runtimeconfig.json
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\bin\Debug\netcoreapp3.1\Payroll with Overtime.runtimeconfig.dev.json
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\bin\Debug\netcoreapp3.1\Payroll with Overtime.dll
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\bin\Debug\netcoreapp3.1\Payroll with Overtime.pdb
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.csprojAssemblyReference.cache
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll_with_Overtime.payrollAmount.resources
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.csproj.GenerateResource.cache
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.AssemblyInfoInputs.cache
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.AssemblyInfo.cs
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.csproj.CoreCompileInputs.cache
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.dll
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.pdb
+C:\Users\mabservi\Source\Repos\PayrollWithOvertime\Payroll with Overtime\obj\Debug\netcoreapp3.1\Payroll with Overtime.genruntimeconfig.cache

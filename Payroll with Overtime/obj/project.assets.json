@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mabservi\\source\\repos\\Payroll with Overtime\\Payroll with Overtime\\Payroll with Overtime.csproj",
+      "projectUniqueName": "C:\\Users\\mabservi\\Source\\Repos\\PayrollWithOvertime\\Payroll with Overtime\\Payroll with Overtime.csproj",
       "projectName": "Payroll with Overtime",
-      "projectPath": "C:\\Users\\mabservi\\source\\repos\\Payroll with Overtime\\Payroll with Overtime\\Payroll with Overtime.csproj",
+      "projectPath": "C:\\Users\\mabservi\\Source\\Repos\\PayrollWithOvertime\\Payroll with Overtime\\Payroll with Overtime.csproj",
       "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mabservi\\source\\repos\\Payroll with Overtime\\Payroll with Overtime\\obj\\",
+      "outputPath": "C:\\Users\\mabservi\\Source\\Repos\\PayrollWithOvertime\\Payroll with Overtime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mabservi\\source\\repos\\Payroll with Overtime\\Payroll with Overtime\\Payroll with Overtime.csproj": {}
+    "C:\\Users\\mabservi\\source\\repos\\PayrollWithOvertime\\Payroll with Overtime\\Payroll with Overtime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mabservi\\source\\repos\\Payroll with Overtime\\Payroll with Overtime\\Payroll with Overtime.csproj": {
+    "C:\\Users\\mabservi\\source\\repos\\PayrollWithOvertime\\Payroll with Overtime\\Payroll with Overtime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mabservi\\source\\repos\\Payroll with Overtime\\Payroll with Overtime\\Payroll with Overtime.csproj",
+        "projectUniqueName": "C:\\Users\\mabservi\\source\\repos\\PayrollWithOvertime\\Payroll with Overtime\\Payroll with Overtime.csproj",
         "projectName": "Payroll with Overtime",
-        "projectPath": "C:\\Users\\mabservi\\source\\repos\\Payroll with Overtime\\Payroll with Overtime\\Payroll with Overtime.csproj",
+        "projectPath": "C:\\Users\\mabservi\\source\\repos\\PayrollWithOvertime\\Payroll with Overtime\\Payroll with Overtime.csproj",
         "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mabservi\\source\\repos\\Payroll with Overtime\\Payroll with Overtime\\obj\\",
+        "outputPath": "C:\\Users\\mabservi\\source\\repos\\PayrollWithOvertime\\Payroll with Overtime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
